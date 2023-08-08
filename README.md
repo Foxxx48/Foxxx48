@@ -12,13 +12,29 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Foxxx48/VKClientCompose">Проект1</a>
+    <a href="https://github.com/Foxxx48/CryptoCoinApp">CryptoCoinApp</a>
     <br />
-    <a href="https://github.com/Foxxx48/VKClientCompose">Проект2</a>
+    <a href="https://github.com/Foxxx48/VKClientCompose">VKClientCompose</a>
     <br />
-    <a href="https://github.com/Foxxx48/VKClientCompose">Проект3</a>
+    <a href="https://github.com/Foxxx48/PurchasingList">PurchasingList</a>
     <br />
-    <a href="https://github.com/Foxxx48/VKClientCompose">Проект4</a>
+    <a href="https://github.com/Foxxx48/Digits">Digits</a>
+    <br />
+    <a href="https://github.com/Foxxx48/MyFavoritMovieApp">MyFavoritMovieApp</a>
+    <br />
+    <a href="https://github.com/Foxxx48/MathTrainer">MathTrainer</a>
+    <br />
+    <a href="https://github.com/Foxxx48/MyWeatherApp">MyWeatherApp</a>
+    <br />
+    <a href="https://github.com/Foxxx48/MultiplicationTableSeekBar">MultiplicationTableSeekBar</a>
+    <br />
+    <a href="https://github.com/Foxxx48/ToolsApp">ToolsApp</a>
+    <br />
+    <a href="https://github.com/Foxxx48/CafeOrderApp">CafeOrderApp</a>
+    <br />
+    <a href="https://github.com/Foxxx48/CharacterByColor">CharacterByColor</a>
+    <br />
+    <a href="https://github.com/Foxxx48/JuniorSchoolStudentHelperApp">JuniorSchoolStudentHelperApp</a>
     
   </p>
 
