@@ -55,7 +55,14 @@
   <a href="https://github.com/Foxxx48?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
+
+
 <!--
+<video alt="Figma" src = 'https://github.com/Foxxx48/Foxxx48/assets/85708455/e2f379a1-b155-499d-a4c1-6f6c81a2e148' />
+
+https://github.com/Foxxx48/Foxxx48/assets/85708455/e2f379a1-b155-499d-a4c1-6f6c81a2e148
+
+
 
 <img alt="Github" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width='30'/><img alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width='30' />
 
