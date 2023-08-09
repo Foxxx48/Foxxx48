@@ -1,3 +1,8 @@
+<body>
+  <video  alt="Video" src='https://github.com/Foxxx48/Foxxx48/assets/85708455/e2f379a1-b155-499d-a4c1-6f6c81a2e148' width="160" height="160"  autoplay loop  muted preload="auto"/>
+  </video>
+</body>
+
 <h1 align="center">Hello! I'm Dmitry
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
 
@@ -54,6 +59,11 @@
 
   <a href="https://github.com/Foxxx48?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
+
+
+
+
 
 
 
