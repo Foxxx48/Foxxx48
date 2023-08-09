@@ -1,13 +1,20 @@
-<h1 align="center">Привет! Я Дмитрий
+<h1 align="center">Hello! I'm Dmitry
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
 
 <p align="center">
   <a href="https://github.com/Foxxx48">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Я%20Android%20Разработчик;%20здесь;вы найдете мои проекты;эксперименты;и немного того;что меня вдохновляет&font=Fira%20Code&center=true&width=440&height=45&color=adbac7&vCenter=true&pause=500&size=32" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=I am Android Developer;here;%20you will find my projects;experiments;and some;what inspires me&font=Fira%20Code&center=true&width=440&height=45&color=adbac7&vCenter=true&pause=500&size=32" />
 </p>
+
+## Programming Languages
+<img alt="Kotlin" src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' width='30'/> <img alt="Java" src = 'https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' width='30'/> 
+ 
+ ## Technologies I Use
+<img alt="Android" src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/android.svg' height='30'/><img alt="Android Studio" src = 'https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg' width='30'/> <img alt="Jetpack Compose" src = 'https://github.com/Foxxx48/Foxxx48/assets/85708455/bbb5a848-6950-4824-bc8f-949458ca79b0' width='30'/> <img alt="Git" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='30'/> <img alt="JetBrains" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg' width='33'/> <img alt="Firebase" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' width='33'/>  <img alt="Jenkins" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg' width='33'/> <img alt="MySQL" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width='33'/> <img alt="Linux" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width='33'/> <img alt="Debian" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg' width='33'/> <img alt="Trello" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg' width='33'/> <img alt="Github" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg' width='30'/><img alt="Gradle" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gradle/gradle-plain.svg" width='30' /> <img alt="After Effects" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg' width='33'/> <img alt="Potoshop" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg' width='33'/> <img alt="Illustrator" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg' width='33'/>
 
 <details open> 
   <summary><h2>📘 Мои проекты</h2></summary>
+
 
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
@@ -45,12 +52,15 @@
   <a href="https://github.com/Foxxx48?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
 
-
-
-
-
-
 <!--
+
+<h1 align="center">Привет! Я Дмитрий
+<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
+
+<p align="center">
+  <a href="https://github.com/Foxxx48">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Я%20Android%20Разработчик;%20здесь;вы найдете мои проекты;эксперименты;и немного того;что меня вдохновляет&font=Fira%20Code&center=true&width=440&height=45&color=adbac7&vCenter=true&pause=500&size=32" />
+</p>
 
 <br />
 Здесь вы найдете мои проекты, эксперименты и немного того, что меня вдохновляет.
@@ -70,6 +80,9 @@ animated string
 
 graph of user activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Foxxx48&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+twitter
+### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
 
 **Foxxx48/Foxxx48** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
