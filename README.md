@@ -1,7 +1,7 @@
-<body>
-  <video  alt="Video" src='https://github.com/Foxxx48/Foxxx48/assets/85708455/e2f379a1-b155-499d-a4c1-6f6c81a2e148' width="160" height="160"  autoplay loop  muted preload="auto"/>
-  </video>
-</body>
+<p align="center">
+<img alt="GIF" src='https://github.com/Foxxx48/Foxxx48/assets/85708455/a386e10b-03b3-4396-b14f-b8da0be0c637'/> 
+</p>
+
 
 <h1 align="center">Hello! I'm Dmitry
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
