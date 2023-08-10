@@ -27,7 +27,7 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <a href="https://github.com/Foxxx48/CryptoCoinApp">CryptoCoinApp</a>
+    <h3><a href="https://github.com/Foxxx48/CryptoCoinApp">CryptoCoinApp</a> An application that displays a list of cryptocurrencies updates the data every 10 seconds and writes them to the database.</h3>
     <br />
     <a href="https://github.com/Foxxx48/VKClientCompose">VKClientCompose</a>
     <br />
