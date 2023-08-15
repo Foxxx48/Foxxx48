@@ -27,11 +27,11 @@
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
   <p align="left">
-    <h3><a href="https://github.com/Foxxx48/CryptoCoinApp">CryptoCoinApp</a> An application that displays a list of cryptocurrencies updates the data every 10 seconds and writes them to the database.</h3>
+    <h3><a href="https://github.com/Foxxx48/CryptoCoinApp">CryptoCoinApp</a> - An application that displays a list of cryptocurrencies.</h3>
     <br />
-    <a href="https://github.com/Foxxx48/VKClientCompose">VKClientCompose</a>
+    <h3><a href="https://github.com/Foxxx48/VKClientCompose">VKClientCompose</a> - An application that displays a list of news posts from VK social media.</h3>
     <br />
-    <a href="https://github.com/Foxxx48/PurchasingList">PurchasingList</a>
+    <h3><a href="https://github.com/Foxxx48/PurchasingList">PurchasingList</a> - An application that displays a list of purchases.</h3>
     <br />
     <a href="https://github.com/Foxxx48/Digits">Digits</a>
     <br />
