@@ -22,38 +22,23 @@
 
 <details open> 
   <summary><h2>📘 My Projects</h2></summary>
-
-
   <!-- Repo info cards - https://github.com/anuraghazra/github-readme-stats -->
   <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
-  <p align="left">
-    <h3><a href="https://github.com/Foxxx48/CryptoCoinApp">CryptoCoinApp</a> - An application that displays a list of cryptocurrencies.</h3>
-    <br />
-    <h3><a href="https://github.com/Foxxx48/VKClientCompose">VKClientCompose</a> - An application that displays a list of news posts from VK social media.</h3>
-    <br />
-    <h3><a href="https://github.com/Foxxx48/PurchasingList">PurchasingList</a> - An application that displays a list of purchases.</h3>
-    <br />
-    <a href="https://github.com/Foxxx48/Digits">Digits</a>
-    <br />
-    <a href="https://github.com/Foxxx48/MyFavoritMovieApp">MyFavoritMovieApp</a>
-    <br />
-    <a href="https://github.com/Foxxx48/MathTrainer">MathTrainer</a>
-    <br />
-    <a href="https://github.com/Foxxx48/MyWeatherApp">MyWeatherApp</a>
-    <br />
-    <a href="https://github.com/Foxxx48/MultiplicationTableSeekBar">MultiplicationTableSeekBar</a>
-    <br />
-    <a href="https://github.com/Foxxx48/ToolsApp">ToolsApp</a>
-    <br />
-    <a href="https://github.com/Foxxx48/CafeOrderApp">CafeOrderApp</a>
-    <br />
-    <a href="https://github.com/Foxxx48/CharacterByColor">CharacterByColor</a>
-    <br />
-    <a href="https://github.com/Foxxx48/JuniorSchoolStudentHelperApp">JuniorSchoolStudentHelperApp</a>
-    <br />
-    <a href="https://github.com/Foxxx48/DarkKnightConstraintLayout">DarkKnight UI</a>
-      <br />
-    <a href="https://github.com/Foxxx48/MyConstraintLayoutExample">Servant UI</a>
+<p align="left">
+    <h4><a href="https://github.com/Foxxx48/CryptoCoinApp">CryptoCoinApp</a> - An application that displays a list of cryptocurrencies.</h4>
+    <h4><a href="https://github.com/Foxxx48/VKClientCompose">VKClientCompose</a> - An application that displays a list of news posts from VK social media.</h4>
+    <h4><a href="https://github.com/Foxxx48/PurchasingList">PurchasingList</a> - An application that displays a list of purchases.</h4>
+    <h4><a href="https://github.com/Foxxx48/Digits">Digits</a> - An application that presents a fact about a number.</h4>
+    <h4><a href="https://github.com/Foxxx48/MyFavoritMovieApp">MyFavoritMovieApp</a> - An application that displays a list of films with a high rating.</h4>
+    <h4><a href="https://github.com/Foxxx48/MathTrainer">MathTrainer</a> - A fun app- game that tests the skills of addition and subtraction.</h4>
+    <h4><a href="https://github.com/Foxxx48/MyWeatherApp">MyWeatherApp</a> - An application that displays real weather data in some places.</h4>
+    <h4><a href="https://github.com/Foxxx48/ToolsApp">ToolsApp</a> - An application that is a catalog of the tool.</h4>
+    <h4><a href="https://github.com/Foxxx48/CafeOrderApp">CafeOrderApp</a> - An application for a mini cafe where you can place an order for tea or coffee with different additives.</h4>
+    <h4><a href="https://github.com/Foxxx48/CharacterByColor">CharacterByColor</a> - An application that allows you to find out the character of a person by their favorite color.</h4>
+    <h4><a href="https://github.com/Foxxx48/JuniorSchoolStudentHelperApp">JuniorSchoolStudentHelperApp</a> - A fun application is a game that checks how well you can add numbers. </h4>
+    <h4><a href="https://github.com/Foxxx48/MultiplicationTableSeekBar">MultiplicationTableSeekBar</a> - A simple application with the ability to view the result of multiplying a number using seekbar.</h4>
+    <h4><a href="https://github.com/Foxxx48/DarkKnightConstraintLayout">DarkKnight UI</a> - A simple Ui based on the movie "The Dark Knight"</h4>
+    <h4><a href="https://github.com/Foxxx48/MyConstraintLayoutExample">Servant UI</a> - Simple user interface based on the TV series "The Servant" </h4>
     
   </p>
 
