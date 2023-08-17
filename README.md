@@ -39,8 +39,9 @@
     <h4><a href="https://github.com/Foxxx48/MultiplicationTableSeekBar">MultiplicationTableSeekBar</a> - A simple application with the ability to view the result of multiplying a number using seekbar.</h4>
     <h4><a href="https://github.com/Foxxx48/DarkKnightConstraintLayout">DarkKnight UI</a> - A simple Ui based on the movie "The Dark Knight"</h4>
     <h4><a href="https://github.com/Foxxx48/MyConstraintLayoutExample">Servant UI</a> - Simple user interface based on the TV series "The Servant" </h4>
-    
-  </p>
+    <h4><a href="https://github.com/Foxxx48/SMCardCompose">SM Card Compose UI</a> - Simple user interface made using Jetpack Compose</h4>
+    <h4><a href="https://github.com/Foxxx48/MyComposeProject">Card Compose UI</a> - Test of Ui card with Jetpack Compose</h4>
+    </p>
 
   <a href="https://github.com/Foxxx48?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Click%20Here%20For%20All%20My%20Repos-1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
