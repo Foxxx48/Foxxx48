@@ -2,7 +2,7 @@
 
 <p align="center">
   <a href="https://github.com/Foxxx48">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Я%20Android%20Разработчик;%20здесь;вы найдете мои проекты;эксперименты;и немного того;что меня вдохновляет&font=Fira%20Code&center=true&width=440&height=45&color=adbac7&vCenter=true&pause=500&size=32" />
+    <img src="https://readme-typing-svg.demolab.com/?lines=Я%20Android%20Разработчик;%20здесь;вы найдёте мои проекты;эксперименты;и немного того;что меня вдохновляет&font=Fira%20Code&center=true&width=440&height=45&color=adbac7&vCenter=true&pause=500&size=32" />
 </p>
 
 <p align="center">
@@ -12,7 +12,7 @@
 ## Языки программирования
 <img alt="Kotlin" src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' width='30'/> <img alt="Java" src = 'https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' width='30'/> 
  
-## Мой стэк
+## Мой стэк технологий
 <img alt="Android" src ='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain.svg' height='30'/><img alt="Android Studio" src = 'https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg' width='30'/> <img alt="Jetpack Compose" src = 'https://github.com/Foxxx48/Foxxx48/assets/85708455/bbb5a848-6950-4824-bc8f-949458ca79b0' width='30'/> <img alt="Git" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg' width='30'/> <img alt="JetBrains" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg' width='33'/> <img alt="Firebase" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg' width='33'/>  <img alt="Jenkins" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg' width='33'/> <img alt="MySQL" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg' width='33'/> <img alt="Linux" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg' width='33'/> <img alt="Debian" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg' width='33'/> <img alt="Trello" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg' width='33'/> 
 <img alt="Figma" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg' width='33'/> <img alt="After Effects" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg' width='33'/> <img alt="Potoshop" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg' width='33'/> <img alt="Illustrator" src = 'https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg' width='33'/> 
 
@@ -22,33 +22,26 @@
   <summary><h2>📘 Мои проекты</h2></summary>
   
 <p align="left">
-    <h4><a href="https://github.com/Foxxx48/CryptoCoinApp">CryptoCoinApp</a> - An application that displays a list of cryptocurrencies.</h4>
-    <h4><a href="https://github.com/Foxxx48/VKClientCompose">VKClientCompose</a> - An application that displays a list of news posts from VK social media.</h4>
-    <h4><a href="https://github.com/Foxxx48/PurchasingList">PurchasingList</a> - An application that displays a list of purchases.</h4>
-    <h4><a href="https://github.com/Foxxx48/Digits">Digits</a> - An application that presents a fact about a number.</h4>
-    <h4><a href="https://github.com/Foxxx48/MyFavoritMovieApp">MyFavoritMovieApp</a> - An application that displays a list of films with a high rating.</h4>
-    <h4><a href="https://github.com/Foxxx48/MathTrainer">MathTrainer</a> - A fun app- game that tests the skills of addition and subtraction.</h4>
-    <h4><a href="https://github.com/Foxxx48/MyWeatherApp">MyWeatherApp</a> - An application that displays real weather data in some places.</h4>
-    <h4><a href="https://github.com/Foxxx48/ToolsApp">ToolsApp</a> - An application that is a catalog of the tool.</h4>
-    <h4><a href="https://github.com/Foxxx48/CafeOrderApp">CafeOrderApp</a> - An application for a mini cafe where you can place an order for tea or coffee with different additives.</h4>
-    <h4><a href="https://github.com/Foxxx48/CharacterByColor">CharacterByColor</a> - An application that allows you to find out the character of a person by their favorite color.</h4>
-    <h4><a href="https://github.com/Foxxx48/JuniorSchoolStudentHelperApp">JuniorSchoolStudentHelperApp</a> - A fun application is a game that checks how well you can add numbers. </h4>
-    <h4><a href="https://github.com/Foxxx48/MultiplicationTableSeekBar">MultiplicationTableSeekBar</a> - A simple application with the ability to view the result of multiplying a number using seekbar.</h4>
-    <h4><a href="https://github.com/Foxxx48/DarkKnightConstraintLayout">DarkKnight UI</a> - A simple Ui based on the movie "The Dark Knight"</h4>
-    <h4><a href="https://github.com/Foxxx48/MyConstraintLayoutExample">Servant UI</a> - Simple user interface based on the TV series "The Servant" </h4>
-    <h4><a href="https://github.com/Foxxx48/SMCardCompose">SM Card Compose UI</a> - Simple user interface made using Jetpack Compose</h4>
-    <h4><a href="https://github.com/Foxxx48/MyComposeProject">Card Compose UI</a> - Test of Ui card with Jetpack Compose</h4>
+    <h4><a href="https://github.com/Foxxx48/CryptoCoinApp">CryptoCoinApp</a> - Приложение чтобы знать всегда свежий курс топовых криптовалют. </h4>
+    <h4><a href="https://github.com/Foxxx48/VKClientCompose">VKClientCompose</a> - Приложение для просмотра новостей из социальной сети ВК.</h4>
+    <h4><a href="https://github.com/Foxxx48/PurchasingList">PurchasingList</a> - Приложение для составления списка продуктов.</h4>
+    <h4><a href="https://github.com/Foxxx48/Digits">Digits</a> - Познавательное приложение, которое покажет факт о любом числе.</h4>
+    <h4><a href="https://github.com/Foxxx48/MyFavoritMovieApp">MyFavoritMovieApp</a> - Приложение со списком самых популярных новинок фильмов и топом 250.</h4>
+    <h4><a href="https://github.com/Foxxx48/MathTrainer">MathTrainer</a> - Весёлое приложение - игра, которое проверит твой скилл сложения и вычитания чисел.</h4>
+    <h4><a href="https://github.com/Foxxx48/MyWeatherApp">MyWeatherApp</a> - Приложение для просмотра актуальных данных о погоде.</h4>
+    <h4><a href="https://github.com/Foxxx48/ToolsApp">ToolsApp</a> - Приложение - каталог инструментов.</h4>
+    <h4><a href="https://github.com/Foxxx48/CafeOrderApp">CafeOrderApp</a> - Приложение для мини кафе, в котором можно выбрать напитки и добавки к ним.</h4>
+    <h4><a href="https://github.com/Foxxx48/CharacterByColor">CharacterByColor</a> - Познавательное приложение, которое расскажет о характере человека по его любимому цвету.</h4>
+    <h4><a href="https://github.com/Foxxx48/JuniorSchoolStudentHelperApp">JuniorSchoolStudentHelperApp</a> - Весёлое приложение - игра, которое проверить насколько хорошо ты складываешь числа. </h4>
+    <h4><a href="https://github.com/Foxxx48/MultiplicationTableSeekBar">MultiplicationTableSeekBar</a> - Простенькое приложение с таблицей умножения и Seekbar.</h4>
+    <h4><a href="https://github.com/Foxxx48/DarkKnightConstraintLayout">DarkKnight UI</a> - Пример UI "The Dark Knight"</h4>
+    <h4><a href="https://github.com/Foxxx48/MyConstraintLayoutExample">Servant UI</a> - Пример UI "The Servant" </h4>
+    <h4><a href="https://github.com/Foxxx48/SMCardCompose">SM Card Compose UI</a> - Пример UI c Jetpack Compose</h4>
+    <h4><a href="https://github.com/Foxxx48/MyComposeProject">Card Compose UI</a> - Пример UI c Jetpack Compose</h4>
     </p>
 
-  <a href="https://github.com/Foxxx48?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Переходи%20Здесь%20Все%20Мои%20Репозитории ⤶ -1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
+<a href="https://github.com/Foxxx48?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Переходи%20Здесь%20Все%20Мои%20Репозитории ⤶ -1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
-
-
-
-
-
-
-
 
 <!--
 The same on English
