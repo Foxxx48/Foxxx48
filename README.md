@@ -35,6 +35,7 @@
     <h4><a href="https://github.com/Foxxx48/VKClientCompose">VKClientCompose</a> - Приложение для просмотра новостей из социальной сети ВК.</h4>
     <h4><a href="https://github.com/Foxxx48/PurchasingList">PurchasingList</a> - Приложение для составления списка продуктов.</h4>
     <h4><a href="https://github.com/Foxxx48/Digits">Digits</a> - Познавательное приложение, которое покажет факт о любом числе.</h4>
+    <h4><a href="https://github.com/Foxxx48/MessageBoardApp">MessageBoardApp</a> - Приложение - доска объявлений с использованием Firebase.</h4>
     <h4><a href="https://github.com/Foxxx48/MyFavoritMovieApp">MyFavoritMovieApp</a> - Приложение со списком самых популярных новинок фильмов и топом 250.</h4>
     <h4><a href="https://github.com/Foxxx48/MathTrainer">MathTrainer</a> - Весёлое приложение - игра, которое проверит твой скилл сложения и вычитания чисел.</h4>
     <h4><a href="https://github.com/Foxxx48/MyWeatherApp">MyWeatherApp</a> - Приложение для просмотра актуальных данных о погоде.</h4>
