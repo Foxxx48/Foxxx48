@@ -9,6 +9,15 @@
 <img alt="GIF" src='https://github.com/Foxxx48/Foxxx48/assets/85708455/a386e10b-03b3-4396-b14f-b8da0be0c637'/> 
 </p>
 
+<div id="badges" align="center">
+  <a href="https://www.linkedin.com/in/dmitry-fox">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://t.me/Foxxdim">
+    <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+</div>
+
 ## Языки программирования
 <img alt="Kotlin" src='https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg' width='30'/> <img alt="Java" src = 'https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg' width='30'/> 
  
@@ -42,6 +51,13 @@
 
 <a href="https://github.com/Foxxx48?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-Переходи%20Здесь%20Все%20Мои%20Репозитории ⤶ -1F222E?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </details>
+
+<br/>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=Foxxx48&theme=transparent&hide_border=true&mode=weekly&fire=FF2222&dates=2C68F6&currStreakLabel=2C68F6&currStreakNum=2C68F6)](https://git.io/streak-stats)
+
+
+
 
 <!--
 The same on English
@@ -98,21 +114,30 @@ The same on English
 <h1 align="center">Hi there, I'm <a href="..." target="_blank">Dmitry</a>
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/> </h1>
 
-animated string
+-- animated string
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Я+Android+developer)](https://git.io/typing-svg)
 
 
 
-graph of user activity
+-- graph of user activity
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Foxxx48&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 twitter
 ### <img height="30" style="border-radius:50%" src="https://github.com/WaylonWalker/WaylonWalker/blob/main/icon/twitter.png?raw=true"> Latest Followers
+
+--Statistic block
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Foxxx48&theme=github-dark-blue)](https://git.io/streak-stats)
+
+-- Gif 
+<h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 -->
 
 
 
-<img align="right" alt="Android Studio" width="64px" hight="64px" src="https://komarev.com/ghpvc/?username=Foxxx48" style="padding-right:10px;" />
+<img align="right" alt="View Counter" width="64px" hight="64px" src="https://komarev.com/ghpvc/?username=Foxxx48" style="padding-right:10px;" />
 
 
 
